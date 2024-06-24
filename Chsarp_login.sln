@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chsarp_login", "Chsarp_login.csproj", "{88751C4B-E9C4-403F-8120-733200037CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88751C4B-E9C4-403F-8120-733200037CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88751C4B-E9C4-403F-8120-733200037CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88751C4B-E9C4-403F-8120-733200037CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88751C4B-E9C4-403F-8120-733200037CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D9E944-D083-4FFC-A5B5-F3408CAB8F2D}
+	EndGlobalSection
+EndGlobal
